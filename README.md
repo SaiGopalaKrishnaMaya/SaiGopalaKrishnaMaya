@@ -1,31 +1,9 @@
-## Hi hello 👋
-
-<!--
-**SaiGopalaKrishnaMaya/SaiGopalaKrishnaMaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Sai Gopala Krishna</h1>
 <h3 align="center">A passionate Python/Machine Learning developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saigopalakrishnamaya&label=Profile%20views&color=0e75b6&style=flat" alt="saigopalakrishnamaya" /> </p>
 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=saigopalakrishnamaya&theme=gruvbox&title=Commit,Repositories,Stars,Followers" alt="Trophies" />
-    </a>
-</p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saigopalakrishnamaya" alt="saigopalakrishnamaya" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js, DSA, Angular**
 
@@ -41,15 +19,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-        <span>LinkedIn</span>
-    </a>
-    &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/your-instagram-profile" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-        <span>Instagram</span>
-    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,5 +27,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saigopalakrishnamaya&show_icons=true&locale=en&layout=compact" alt="saigopalakrishnamaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saigopalakrishnamaya&" alt="saigopalakrishnamaya" /></p>
-
-
