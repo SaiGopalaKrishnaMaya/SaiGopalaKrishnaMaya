@@ -22,16 +22,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/saigopalakrishna/" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
         <span>LinkedIn</span>
     </a>
     &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/your-instagram-profile" target="_blank">
+    <a href="https://www.instagram.com/gopal_26092004/" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
         <span>Instagram</span>
     </a>
+    &nbsp;|&nbsp;
+    <a href="https://wa.link/6p5qa5" target="_blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+        <span>WhatsApp</span>
+    </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
