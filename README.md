@@ -10,13 +10,30 @@
 </p>
 - 🌱 I’m currently learning **Vue.js, DSA, Angular**
 
-- 👨‍💻 All of my projects are available at [https://saigopalakrishnamaya.github.io/Personal_Portfolio/](https://saigopalakrishnamaya.github.io/Personal_Portfolio/)
+<p align="left">
+    - 🌐 All of my projects are available at 
+    <a href="https://saigopalakrishnamaya.github.io/Personal_Portfolio/" target="_blank">
+        <strong>Portfolio</strong>
+    </a>
+</p>
 
-- 💬 Ask me about **Django, Python, Machine Learning**
+<p align="left">
+    - 💬 Ask me about <strong>Django, Python, Machine Learning</strong>
+</p>
 
-- 📫 How to reach me **saigopalakrishnamaya@gmail.com**
+<p align="left">
+    - 📫 How to reach me: 
+    <a href="mailto:saigopalakrishnamaya@gmail.com" target="_blank">
+        <strong>saigopalakrishnamaya@gmail.com</strong>
+    </a>
+</p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jeLU_ENTrXrBHQMdEIm7fG851LFacq2x/preview](https://drive.google.com/file/d/1jeLU_ENTrXrBHQMdEIm7fG851LFacq2x/preview)
+<p align="left">
+    - 📄 Know about my experiences: 
+    <a href="https://drive.google.com/file/d/1jeLU_ENTrXrBHQMdEIm7fG851LFacq2x/preview" target="_blank">
+        <strong>Resume</strong>
+    </a>
+</p>
 
 - ⚡ Fun fact **I love solving complex problems, whether it's debugging code or strategizing a chess game. When I’m not coding, you’ll find me playing cricket, kabaddi, or exploring new technologies!"**
 
