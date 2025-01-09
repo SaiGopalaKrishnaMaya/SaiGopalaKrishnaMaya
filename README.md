@@ -8,7 +8,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=saigopalakrishnamaya&theme=gruvbox&title=Commit,Repositories,Stars,Followers" alt="Trophies" />
     </a>
 </p>
-- 🌱 I’m currently learning **Vue.js, DSA, Angular**
+- 🌱 I’m currently learning **Vue.js, DSA, Angular**<br>
 
 <p align="left">
     - 🌐 All of my projects are available at 
